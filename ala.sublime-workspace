@@ -1,0 +1,2186 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"de",
+				"delete"
+			],
+			[
+				"actu",
+				"actualBody"
+			],
+			[
+				"exp",
+				"expectedBody"
+			],
+			[
+				"get",
+				"getStore"
+			],
+			[
+				"uri",
+				"uriParams"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"api",
+				"apiResponse"
+			],
+			[
+				"less",
+				"lessonId"
+			],
+			[
+				"prim",
+				"primaryKey"
+			],
+			[
+				"path",
+				"pathFieldNames"
+			],
+			[
+				"make",
+				"makeRestCrudApi"
+			],
+			[
+				"sync",
+				"syncDataField"
+			],
+			[
+				"def",
+				"defaultSuccessHandler"
+			],
+			[
+				"keys",
+				"keysToSelect"
+			],
+			[
+				"primar",
+				"primaryKeyFieldName"
+			],
+			[
+				"ensu",
+				"ensure"
+			],
+			[
+				"ensure",
+				"ensureFetched"
+			],
+			[
+				"fetc",
+				"fetchAll"
+			],
+			[
+				"remove",
+				"removeByValue"
+			],
+			[
+				"refer",
+				"reference"
+			],
+			[
+				"fr",
+				"freeze"
+			],
+			[
+				"thor",
+				"throwMissingParameterError"
+			],
+			[
+				"inv",
+				"invalidPrimaryKey"
+			],
+			[
+				"_prim",
+				"_primaryKey"
+			],
+			[
+				"_primar",
+				"_primaryKeys"
+			],
+			[
+				"sour",
+				"sourceOfTruth"
+			],
+			[
+				"subje",
+				"subjectId2"
+			],
+			[
+				"subject",
+				"subjectId"
+			],
+			[
+				"err",
+				"errParam"
+			],
+			[
+				"ep",
+				"expect"
+			],
+			[
+				"lesson",
+				"lessonItems"
+			],
+			[
+				"store",
+				"storeModule"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"subj",
+				"subjectId"
+			],
+			[
+				"rea",
+				"resourceName"
+			],
+			[
+				"resource",
+				"resourceName"
+			],
+			[
+				"Stre",
+				"StoreClass"
+			],
+			[
+				"stores",
+				"storesByEndpoint"
+			],
+			[
+				"stored",
+				"storesByEndpoint"
+			],
+			[
+				"create",
+				"createClass"
+			],
+			[
+				"ma",
+				"makeEmptyRecord"
+			],
+			[
+				"prima",
+				"primaryIndex"
+			],
+			[
+				"method",
+				"methodName"
+			],
+			[
+				"thro",
+				"throwMissingParameterError"
+			],
+			[
+				"key",
+				"keyData"
+			],
+			[
+				"fiel",
+				"fieldName"
+			],
+			[
+				"field",
+				"fieldNames"
+			],
+			[
+				"secon",
+				"secondaryIndex"
+			],
+			[
+				"Pri",
+				"primaryIndex"
+			],
+			[
+				"war",
+				"warnIfMissing"
+			],
+			[
+				"before",
+				"beforeEach"
+			],
+			[
+				"rela",
+				"relativeCanonicalUrl"
+			],
+			[
+				"can",
+				"canonicalLink"
+			],
+			[
+				"re",
+				"regionalPrices"
+			],
+			[
+				"pri",
+				"priceAsFloat"
+			],
+			[
+				"Ope",
+				"OpenGraphObject"
+			],
+			[
+				"rel",
+				"relativeUri"
+			],
+			[
+				"Open",
+				"OpenGraphArticle"
+			],
+			[
+				"produ",
+				"productData"
+			],
+			[
+				"ab",
+				"absoluteImageUrl"
+			],
+			[
+				"image",
+				"imageUrl"
+			],
+			[
+				"redered",
+				"renderedComponents"
+			],
+			[
+				"pro",
+				"productData"
+			],
+			[
+				"prop",
+				"propTypes"
+			],
+			[
+				"prod",
+				"productData"
+			],
+			[
+				"objec",
+				"objectData"
+			],
+			[
+				"bread",
+				"breadcrumbData"
+			],
+			[
+				"render",
+				"renderedComponent"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"title",
+				"titleText"
+			],
+			[
+				"red",
+				"renderedComponent"
+			],
+			[
+				"rend",
+				"renderedNodes"
+			],
+			[
+				"titl",
+				"titleData"
+			],
+			[
+				"i8",
+				"i18nKey"
+			],
+			[
+				"i18n",
+				"i18nKey"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"may",
+				"maybeCompilationDescription"
+			],
+			[
+				"com",
+				"componentDidRender"
+			],
+			[
+				"ren",
+				"renderDescription"
+			],
+			[
+				"mana",
+				"managedHeaderTagClass"
+			],
+			[
+				"new",
+				"newElements"
+			],
+			[
+				"set",
+				"setHeaderTags"
+			],
+			[
+				"manag",
+				"managedNode"
+			],
+			[
+				"isRe",
+				"isRequiredWrapper"
+			],
+			[
+				"name",
+				"namePlaintext"
+			],
+			[
+				"bran",
+				"brandName"
+			],
+			[
+				"pre",
+				"previousCrumbs"
+			],
+			[
+				"docu",
+				"document"
+			],
+			[
+				"semant",
+				"semanticMetadataLdJsonTagId"
+			],
+			[
+				"x_",
+				"x_image"
+			],
+			[
+				"wi",
+				"weights"
+			],
+			[
+				"teacher",
+				"teacherNotesStore"
+			],
+			[
+				"docum",
+				"documentTitle"
+			],
+			[
+				"update",
+				"updateDocumentTitle"
+			],
+			[
+				"resolve",
+				"resolvedState"
+			],
+			[
+				"group",
+				"group_principal"
+			],
+			[
+				"test",
+				"test-dev-stuart"
+			],
+			[
+				"crea",
+				"createdOn"
+			],
+			[
+				"notifi",
+				"notifications"
+			],
+			[
+				"noti",
+				"notificationType"
+			],
+			[
+				"chat",
+				"chat3"
+			],
+			[
+				"per",
+				"personData"
+			],
+			[
+				"view",
+				"viewerRole"
+			],
+			[
+				"compil",
+				"compilation_1"
+			],
+			[
+				"m",
+				"merge_tags"
+			],
+			[
+				"mail",
+				"mailing_list"
+			],
+			[
+				"merg",
+				"merge_tags"
+			],
+			[
+				"content",
+				"content_purchase"
+			],
+			[
+				"email",
+				"has_email_address"
+			],
+			[
+				"bill",
+				"billing_customer_api"
+			],
+			[
+				"Create",
+				"CreateRequest"
+			],
+			[
+				"Con",
+				"ContentPurchase"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"publisher",
+				"publisher_1"
+			],
+			[
+				"getSt",
+				"getStripeTokenAndMaskedData"
+			],
+			[
+				"comp",
+				"compilation_details"
+			],
+			[
+				"aci",
+				"activation_token"
+			],
+			[
+				"person",
+				"person_api"
+			],
+			[
+				"COmp",
+				"compilation"
+			],
+			[
+				"Comp",
+				"Compilation"
+			],
+			[
+				"meta",
+				"metaCompilationUuid"
+			],
+			[
+				"compila",
+				"compilationUuid"
+			],
+			[
+				"pub",
+				"publisher"
+			],
+			[
+				"publish",
+				"publisher"
+			],
+			[
+				"con",
+				"control"
+			],
+			[
+				"CONTRLLER",
+				"PUBLISHER_CONTROLLERS_GROUP_TAG"
+			],
+			[
+				"PUBL",
+				"PUBLISHER_READERS_GROUP_TAG"
+			],
+			[
+				"Get",
+				"GetResponse"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 337,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"last_filter": "add",
+		"selected_items":
+		[
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"cehc",
+				"Git: Checkout Current File"
+			],
+			[
+				"blm",
+				"Git: Blame"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"cec",
+				"Git: Checkout Current File"
+			],
+			[
+				"check",
+				"Git: Checkout Current File"
+			],
+			[
+				"log",
+				"Git: Log Current File"
+			],
+			[
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"chck",
+				"Git: Checkout Current File"
+			],
+			[
+				"cehcl",
+				"Git: Checkout Current File"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"bl",
+				"Git: Blame"
+			],
+			[
+				"chcek",
+				"Git: Checkout Current File"
+			],
+			[
+				"cehck",
+				"Git: Checkout Current File"
+			],
+			[
+				"chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"ceh",
+				"Git: Checkout Current File"
+			],
+			[
+				"prot",
+				"Set Syntax: Protocol Buffer"
+			],
+			[
+				"proto",
+				"Set Syntax: Protocol Buffer"
+			],
+			[
+				"cehkc",
+				"Git: Checkout Current File"
+			],
+			[
+				"bm",
+				"Git: Blame"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax mar",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"lo",
+				"Git: Log Current File"
+			],
+			[
+				"heck",
+				"Git: Checkout Current File"
+			],
+			[
+				"chc",
+				"Git: Checkout Current File"
+			],
+			[
+				"check	",
+				"Git: Checkout Current File"
+			],
+			[
+				"checl",
+				"Git: Checkout Current File"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"che",
+				"Git: Checkout Current File"
+			],
+			[
+				"lm",
+				"Set Syntax: LaTeX Memoir"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"df",
+				"Git: Diff Current File"
+			],
+			[
+				"ch",
+				"Git: Checkout Current File"
+			],
+			[
+				"ceck",
+				"Git: Checkout Current File"
+			],
+			[
+				"Blm",
+				"Git: Blame"
+			],
+			[
+				"set synt proto",
+				"Set Syntax: Protocol Buffer"
+			],
+			[
+				"package cont",
+				"Package Control: List Packages"
+			],
+			[
+				"package con",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"lof",
+				"Git: Log Current File"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"wra",
+				"Wrap Plus: Wrap Lines"
+			],
+			[
+				"wr",
+				"Wrap Plus: Wrap Lines"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ad",
+				"Git: Add Selected Hunk"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"cehcke",
+				"Git: Checkout Current File"
+			],
+			[
+				"syntax ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"docker",
+				"Set Syntax: Dockerfile"
+			],
+			[
+				"blma",
+				"Git: Blame"
+			],
+			[
+				"bla",
+				"Git: Blame"
+			],
+			[
+				"echec",
+				"LaTeXing: Check System"
+			],
+			[
+				"addcu",
+				"Git: Add Current File"
+			],
+			[
+				"add curr",
+				"Git: Add Current File"
+			],
+			[
+				"chkc",
+				"Git: Checkout Current File"
+			],
+			[
+				"tr",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"blmae",
+				"Git: Blame"
+			],
+			[
+				"syntax bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"add cur",
+				"Git: Add Current File"
+			],
+			[
+				"synt ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"trail",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"checkou",
+				"Git: Checkout Current File"
+			],
+			[
+				"train",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"syn",
+				"Set Syntax: YAML"
+			],
+			[
+				"add fi",
+				"Git: Add Current File"
+			],
+			[
+				"blme",
+				"Git: Blame"
+			],
+			[
+				"cehce",
+				"Git: Checkout Current File"
+			],
+			[
+				"addc",
+				"Git: Add Current File"
+			],
+			[
+				"chcekc",
+				"Git: Checkout Current File"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"checkec",
+				"Git: Checkout Current File"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"checke",
+				"Git: Checkout Current File"
+			],
+			[
+				"echeck",
+				"LaTeXing: Check System"
+			],
+			[
+				"hcekc",
+				"Git: Checkout Current File"
+			],
+			[
+				"a",
+				"Git: Add Selected Hunk"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"checkout",
+				"Git: Checkout Current File"
+			],
+			[
+				"chekc",
+				"Git: Checkout Current File"
+			],
+			[
+				"bui",
+				"Build With: LaTeX"
+			],
+			[
+				"build",
+				"Build With: LaTeX"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"mark pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark",
+				"MarkdownEditing: Switch List Bullet Type"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"syn bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"cehckout",
+				"Git: Checkout Current File"
+			],
+			[
+				"buil",
+				"Build With: LaTeX"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"show",
+				"Git: Show Current File"
+			],
+			[
+				"d",
+				"Git: Diff Current File"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"trailin",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"remoc",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"bml",
+				"Git: Blame"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/drp/alice-lineation-analysis"
+	],
+	"file_history":
+	[
+		"/Users/drp/dev-environment/web-client/app/core/tests/libs/sync.spec.js",
+		"/Users/drp/dev-environment/web-client/app/fluxCondenser/tests/libs/makeApiMethodWrapper.spec.js",
+		"/Users/drp/dev-environment/web-client/app/legacy/classes/backbone/resourceLayout.js",
+		"/Users/drp/dev-environment/web-client/app/header/tests/planSubscriptionInfoPanel.spec.js",
+		"/Users/drp/dev-environment/web-client/app/core/libs/log.module.js",
+		"/Users/drp/dev-environment/web-client/app/assessment/stores/assessmentStore.module.js",
+		"/Users/drp/dev-environment/web-client/app/core/models/staffUserModel.module.js",
+		"/Users/drp/dev-environment/web-client/app/apiThunks/assessmentApi.module.js",
+		"/Users/drp/dev-environment/web-client/app/fluxCondenser/libs/store.module.js",
+		"/Users/drp/dev-environment/web-client/eslint.yml",
+		"/Users/drp/dev-environment/web-client/.babelrc",
+		"/Users/drp/dev-environment/web-client/node_modules/babel-plugin-transform-object-rest-spread/package.json",
+		"/Users/drp/dev-environment/web-client/app/tablebuilder/tests/tablebuilder.spec.js",
+		"/Users/drp/dev-environment/web-client/app/core/libs/sync.module.js",
+		"/Users/drp/dev-environment/web-client/app/core/components/money.module.js",
+		"/Users/drp/dev-environment/web-client/app/fluxCondenser/tests/libs/store.js",
+		"/Users/drp/dev-environment/web-client/app/fluxCondenser/tests/libs/store.module.js",
+		"/Users/drp/dev-environment/backend/institution-service/lib/institution_service/apis/lesson_item_pb_api.rb",
+		"/Users/drp/dev-environment/web-client/app/fluxCondenser/tests/store.module.js",
+		"/Users/drp/dev-environment/web-client/app/fluxCondenser/tests",
+		"/Users/drp/dev-environment/web-client/app/core/libs/selectiveDeepIsEqual.module.js",
+		"/Users/drp/dev-environment/backend/auth-service/config.rb",
+		"/Users/drp/dev-environment/docker-compose.yml",
+		"/Users/drp/dev-environment/web-client/app/react/libs/dataStore/collection.module.js",
+		"/Users/drp/dev-environment/web-client/app/react/libs/dataStore/collectionIndex.module.js",
+		"/Users/drp/dev-environment/web-client/app/react/libs/dataStore/dataStore.module.js",
+		"/Users/drp/dev-environment/web-client/app/fluxCondenser/storeIndex.module.js",
+		"/Users/drp/dev-environment/web-client/app/fluxCondenser/index.module.js",
+		"/Users/drp/dev-environment/web-client/app/pageRouter/setPageState.module.js",
+		"/Users/drp/dev-environment/web-client/app/semanticMetadata/libs/badReact.module.js",
+		"/Users/drp/dev-environment/web-client/app/semanticMetadata/badComponents/description.module.js",
+		"/Users/drp/dev-environment/web-client/app/semanticMetadata/badComponents/title.module.js",
+		"/Users/drp/dev-environment/backend/library2-service/interface/services/publisher.proto",
+		"/Users/drp/dev-environment/web-client/app/i18n/index.module.js",
+		"/Users/drp/dev-environment/web-client/app/i18n/tests/index.spec.js",
+		"/Users/drp/dev-environment/web-client/app/i18n/exists.module.js",
+		"/Users/drp/dev-environment/web-client/app/semanticMetadata/components/pageMetadata.module.js",
+		"/Users/drp/dev-environment/web-client/app/semanticMetadata/components/siteMetadata.module.js",
+		"/Users/drp/dev-environment/web-client/app/semanticMetadata/components/productMetadata.module.js",
+		"/Users/drp/dev-environment/web-client/app/semanticMetadata/components/breadcrumbMetadata.module.js",
+		"/Users/drp/dev-environment/web-client/app/semanticMetadata/i18n/en/semanticMetadata.json",
+		"/Users/drp/dev-environment/web-client/app/library2CompilationPage/components/CompilationPage.module.js",
+		"/Users/drp/dev-environment/web-client/app/library2Purchase/utils/compilationPurchasingFunctions.module.js",
+		"/Users/drp/dev-environment/web-client/app/core/propTypes/handleIsRequiredWrapper.module.js",
+		"/Users/drp/dev-environment/web-client/app/core/propTypes/moment.module.js",
+		"/Users/drp/dev-environment/backend/library2-service/interface/services/compilation.proto",
+		"/Users/drp/dev-environment/web-client/app/library2CompilationPage/components/UploadedImage.module.js",
+		"/Users/drp/dev-environment/backend/upload-service/lib/upload_service/resources/upload_resource.rb",
+		"/Users/drp/dev-environment/backend/upload-service/lib/upload_service/rpc.rb",
+		"/Users/drp/dev-environment/web-client/app/library2CompilationPage/tests/data/compilationPageData/compilationResolved.json",
+		"/Users/drp/dev-environment/web-client/app/bootstrap/initializers/stile.module.js",
+		"/Users/drp/dev-environment/react/docs/js/react.js",
+		"/Users/drp/dev-environment/react/src/test/ReactTestUtils.js",
+		"/Users/drp/dev-environment/react/src/test/__tests__/ReactTestUtils-test.js",
+		"/Users/drp/dev-environment/web-client/app/notifications/tests/inbox.spec.js",
+		"/Users/drp/dev-environment/web-client/node_modules/react/lib/ReactTestUtils.js",
+		"/Users/drp/dev-environment/web-client/app/core/libs/html2Plaintext.module.js",
+		"/Users/drp/dev-environment/backend/outbound-communication-service/lib/outbound_communication_service/apis/person_api.rb",
+		"/Users/drp/dev-environment/web-client/app/semanticMetadata/badComponents/twitterCard.module.js",
+		"/Users/drp/dev-environment/lib-stile-ruby/lib/stile/amqp/client.rb",
+		"/Users/drp/dev-environment/lib-stile-ruby/lib/stile/amqp/service.rb",
+		"/Users/drp/dev-environment/backend/auth-service/lib/auth_service/apis/user_api.rb",
+		"/Users/drp/dev-environment/backend/outbound-communication-service/lib/outbound_communication_service/apis/communication_method_api.rb",
+		"/Users/drp/dev-environment/web-client/app/library2PublisherPage/components/PublisherPage.module.js",
+		"/Users/drp/dev-environment/web-client/app/library2/components/BreadcrumbStrip.module.js",
+		"/Users/drp/dev-environment/web-client/app/library2/libs/makeRoute.module.js",
+		"/Users/drp/dev-environment/web-client/app/core/mixins/react/arrayRefMixin.module.js",
+		"/Users/drp/dev-environment/web-client/app/notifications/components/inbox.module.js",
+		"/Users/drp/dev-environment/web-client/app/core/components/fancyScroller.module.js",
+		"/Users/drp/dev-environment/web-client/app/activity/views/activityView.module.js",
+		"/Users/drp/dev-environment/web-client/app/react/views/reactView.module.js",
+		"/Users/drp/dev-environment/web-client/karma.env.js",
+		"/Users/drp/dev-environment/web-client/app/framework/regions/promiseRegion.module.js",
+		"/Users/drp/dev-environment/web-client/app/bootstrap/app.module.js",
+		"/Users/drp/dev-environment/web-client/assets/index.html.ejs",
+		"/Users/drp/dev-environment/web-client/server/config.inc.erb",
+		"/Users/drp/dev-environment/backend/outbound-communication-service/lib/outbound_communication_service.rb",
+		"/Users/drp/dev-environment/web-client/app/pageRouter/components/productMetadata.module.js",
+		"/Users/drp/dev-environment/web-client/app/payment/parsers/paymentParser.module.js",
+		"/Users/drp/dev-environment/web-client/app/chat3/components/comment.module.js",
+		"/Users/drp/dev-environment/backend/auth-service/interface/services/tolkien.proto",
+		"/Users/drp/dev-environment/backend/auth-service/lib/auth_service/apis/tolkien_api.rb",
+		"/Users/drp/dev-environment/marketing-2015/.gitignore",
+		"/Users/drp/dev-environment/marketing-2015/README.md",
+		"/Users/drp/dev-environment/web-client/server/server.conf.erb",
+		"/Users/drp/dev-environment/operations/cfn/full_environment.plus",
+		"/Users/drp/dev-environment/marketing-2015/layouts/partials/head.includes.html",
+		"/Users/drp/dev-environment/lib-stile-ruby/lib/stile_test_helper/common_operation_wrappers.rb",
+		"/Users/drp/dev-environment/web-client/app/notifications/components/notification.module.js",
+		"/Users/drp/dev-environment/web-client/app/pageRouter/components/pageMetadata.module.js",
+		"/Users/drp/dev-environment/web-client/app/pageRouter/libs/shittyReact/shittyReact.module.js",
+		"/Users/drp/dev-environment/web-client/app/library2Purchase/components/CompilationPurchase.module.js",
+		"/Users/drp/dev-environment/web-client/app/i18n/components/i18n.module.js",
+		"/Users/drp/dev-environment/web-client/app/pageRouter/basePageRouter.module.js",
+		"/Users/drp/dev-environment/web-client/app/sidebar/libs/renderedManager.module.js",
+		"/Users/drp/dev-environment/web-client/app/library2/routes/index.module.js",
+		"/Users/drp/Downloads/temp",
+		"/Users/drp/dev-environment/web-client/app/pageRouter/components/siteMetadata.module.js",
+		"/Users/drp/dev-environment/web-client/app/semanticMetadata/badComponents/openGraph.module.js",
+		"/Users/drp/dev-environment/web-client/app/semanticMetadata/badComponents/canonicalLink.module.js",
+		"/Users/drp/dev-environment/web-client/app/library2Purchase/tests/components/CompilationPurchase.spec.js",
+		"/Users/drp/dev-environment/backend/utility-scripts/lib/big_data.rb",
+		"/Users/drp/dev-environment/web-client/app/pageRouter/libs/shittyReact/description.module.js",
+		"/Users/drp/dev-environment/marketing-2015/layouts/partials/head.html",
+		"/Users/drp/dev-environment/web-client/gulpfile.js",
+		"/Users/drp/dev-environment/backend/auth-service/lib/auth_service/apis/tagged_group_api.rb",
+		"/Users/drp/dev-environment/web-client/app/header/components/supportControl.module.js",
+		"/Users/drp/dev-environment/web-client/app/person/tests/data/person.json",
+		"/Users/drp/dev-environment/web-client/app/library2ActivityPreviewHeader/tests/data/compilation.json",
+		"/Users/drp/dev-environment/web-client/app/chat3/stores/chatStore.module.js",
+		"/Users/drp/dev-environment/web-client/app/chat3/css/commentList.scss",
+		"/Users/drp/dev-environment/web-client/app/chat3/tests/components/chatUploadDisplay.spec.js",
+		"/Users/drp/dev-environment/web-client/app/uploader/stores/uploadStore.module.js",
+		"/Users/drp/dev-environment/web-client/app/library2Purchase/components/InvoicePaymentDetailsStep.module.js",
+		"/Users/drp/dev-environment/web-client/app/library2Purchase/components/LoginStep.module.js",
+		"/Users/drp/dev-environment/web-client/app/library2Purchase/components/PaymentConfirmationStep.module.js",
+		"/Users/drp/dev-environment/web-client/app/library2Purchase/components/PaymentDetailsStep.module.js",
+		"/Users/drp/dev-environment/web-client/app/library2Purchase/components/ResetPasswordStep.module.js",
+		"/Users/drp/dev-environment/backend/public-api-test/spec/api/integration/library2_spec.rb",
+		"/Users/drp/dev-environment/web-client/app/studentDash/routes/showStudentDash.module.js",
+		"/Users/drp/dev-environment/web-client/app/pageRouter/routes/showStudentDash.module.js",
+		"/Users/drp/dev-environment/web-client/app/pageRouter/updatePageState.module.js",
+		"/Users/drp/dev-environment/web-client/app/studentDash/components/studentDash.module.js",
+		"/Users/drp/dev-environment/web-client/app/library2/routes/showPublisher.module.js",
+		"/Users/drp/dev-environment/web-client/app/library2/routes/compilation.module.js",
+		"/Users/drp/dev-environment/web-client/app/chat3/tests/components/chat.spec.js",
+		"/Users/drp/dev-environment/web-client/app/chat3/tests/stores/chatStore.spec.js",
+		"/Users/drp/dev-environment/web-client/app/studentDash/components/subject.module.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"app/*.spec.js",
+			"legacy/*.js",
+			"app/*.js",
+			"app/*spec.js",
+			"app/*.js",
+			"*.js",
+			"*.rb",
+			"*.json",
+			"*.js",
+			"*.rb",
+			"*.js",
+			"app/*.js",
+			"*.rb",
+			"*.js",
+			"*,js",
+			"public-api-test/*.rb",
+			"app/library2Purchase/*.js",
+			"*.js",
+			"*.rb",
+			"*.js",
+			"*.json",
+			"*.js",
+			"bower_components/react/*.js",
+			"react/*.js",
+			"node_modules/*/react/*.js",
+			"node_modules/**/react/*.js",
+			"node_module/**/react/*.js",
+			"node_module/*/react/*.js",
+			"react/*.js",
+			"*.js",
+			"react/*.js",
+			"*.js",
+			"*.rb",
+			"web-client/*.js",
+			"marketing-2015/*.js",
+			"*.js",
+			"web-client/app/library2Purchase/*.js",
+			"*.rb",
+			"*.js",
+			"*.rb",
+			"web-client/*.js",
+			"web-client/",
+			"react/",
+			"*.js",
+			"web-client/app/*.js",
+			"web-client/*.js",
+			"web-client/*.css",
+			"*.css",
+			"*.js",
+			"*.css",
+			"*.js",
+			"*",
+			"*.proto",
+			"*.prot",
+			"*",
+			"*.rb",
+			"*.js",
+			"*spec.rb",
+			"*.spec.rb",
+			"*",
+			"web-client/*",
+			"web-client/*.js",
+			"web-client/*.json",
+			"web-client/*",
+			"web-client/*.js",
+			"*.js",
+			"*",
+			"library2-service/*.rb",
+			"*.rb",
+			"*",
+			"*.js",
+			"*.rb",
+			"*.proto",
+			"*.rb",
+			"institution-service/*.rb",
+			"*.rb",
+			"*protodeps.yml",
+			"*.rb",
+			"library2-service/*.rb",
+			"*.rb",
+			"library2-service/*.rb",
+			"library2-servce/*.rb",
+			"library2-servce/*",
+			"*.rb",
+			"*.sh",
+			"*",
+			"web-client/*.js",
+			"*.js",
+			"institution-service/*.rb",
+			"*.rb",
+			"*.js",
+			"utility-scripts/*.rb",
+			"utilityscripts/*.rb",
+			"utilityscripts/*",
+			"*",
+			"*.",
+			"*.proto",
+			"*.rb",
+			"*.proto",
+			"*.rb",
+			"*.js",
+			"*.yml",
+			"*.rb",
+			"*.json",
+			"*js",
+			"*repository.rb",
+			"repository.rb",
+			"repository.js",
+			"*module.js",
+			"*.js",
+			"*.rb",
+			"*.js",
+			"*.rb",
+			"*.json",
+			"*.js",
+			"*.json",
+			"*.js",
+			"*.rb",
+			"*.js",
+			"*.json",
+			"*.rb",
+			"*.js",
+			"web-client/webpack/*.js",
+			"*.js",
+			"*.json",
+			"*.rb",
+			"*.js",
+			"*.rb"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"TODO",
+			".name",
+			"post",
+			"delete",
+			"requestBody",
+			"delete",
+			".onCal",
+			"sync",
+			"sync:",
+			"jquery",
+			"/api/dev",
+			"match",
+			"this.model =",
+			"_hasIndexedFields",
+			"error",
+			"remove",
+			"removeByValue",
+			"removeByPrimaryKey",
+			"this.data",
+			"apiStub",
+			"proptyp",
+			".have",
+			"Many",
+			"this.indices.forEach(",
+			"indices.",
+			"indices",
+			"_primaryKeys",
+			"makeA",
+			"attrs",
+			"sync(\"delete",
+			"sync('delete",
+			"data:",
+			"attrs:",
+			"params:",
+			"data:",
+			"...arguments",
+			"no-undef",
+			"migrate",
+			"eslin",
+			"super",
+			"subject",
+			"record",
+			"multiple",
+			"pending",
+			".ful",
+			"ful",
+			"fulfi",
+			"be.",
+			"reject",
+			"pending",
+			"resolved",
+			"state",
+			"apiStub.",
+			"});\n",
+			"promi",
+			"api:",
+			"name",
+			"fieldNames",
+			"IndexSubClass",
+			"dataument",
+			"__super__",
+			"_internalEnsureStored",
+			"update",
+			"doc",
+			"_data",
+			"makeStringKey",
+			"principal_cache_locking_percent",
+			"_sourceOfTruth",
+			"Index",
+			"_data",
+			"sourceOfTruth",
+			"_sourceOfTruthDataByPrimaryKey",
+			"data",
+			"Collection",
+			"calledOnce",
+			"stileapp.com",
+			"console.log",
+			"typeChecker",
+			"oneof",
+			".options",
+			"_renderPublisherOverview",
+			"semanticMetadata",
+			"imageUrl",
+			"/components/",
+			"components/",
+			"component",
+			"location.href",
+			".href",
+			"price",
+			"money",
+			"\n",
+			";",
+			"csp",
+			"capabili",
+			"capa",
+			"port",
+			"publicapi",
+			"api",
+			"url_api",
+			"/api",
+			"api",
+			"Innovation Generation is a term long subject",
+			"pageStateCommands",
+			"purchaseC",
+			"showAddToSubject\nshowAddToSubject",
+			"showAddToSubject",
+			"logInOrSignUp",
+			"replaceStep",
+			"purchaseCompilation",
+			"handlePrevious",
+			"nextBusy",
+			"loginError",
+			"logInOrSignUp",
+			"loginError",
+			"rootElementsByReactRootID",
+			"unmountcomponentatnode:",
+			"getReactRootID",
+			"unmountcomponentatnode",
+			"unmountcomponentnatnode",
+			"unmountcomponetnatnode",
+			"signup(",
+			"checkType",
+			"  function checkType(isRequired, props, propName, componentName, location, propFullName) {\n  function checkType(isRequired, props, propName, componentName, location, propFullName) {\ncheckType",
+			"managedTags",
+			"blob",
+			"availablepu",
+			"get_upload_file_with_long_expiry_urls",
+			"publi"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"this._data",
+			"All",
+			"_.each(this.indices, ",
+			"...args",
+			"previousDefinition",
+			"lesson",
+			"Record",
+			"apiStub.async.",
+			"fields",
+			"StoreSubClass",
+			"Data",
+			"_internalAdd",
+			"data",
+			"sourceOfTruth",
+			"makeKey",
+			"BaseFluxCondenserIndex",
+			"FluxCondenserStore",
+			"absoluteImageUrl",
+			"",
+			";\n",
+			"managedNodes",
+			"y_targets",
+			"tabIndex={ \\1 }",
+			"myWidgetStore",
+			"useInitialData",
+			"include_publisher_users",
+			"result.get_responses.map { |get_response| get_response.publisher }.",
+			"result.get_responses.map { |get_response| get_response.publisher }",
+			"expect(result.get_responses).to have",
+			"include_my_publisher_user",
+			"resolution metadata",
+			"update_resolution_metadata_and_propogate_duration_estimate_update",
+			"update_metadata_and_propogate_duration_estimate_update",
+			"EnsureDenormalisedResolutionMetadataRequest",
+			"ensure_denormalised_resolution_metadata",
+			"apiStub",
+			"I18N",
+			"i18n.t",
+			"require('i18n/legacy')",
+			"getRenderedI18nText(",
+			"getRenderedI18nText",
+			"I18N",
+			"stripHtml",
+			"_cleanedObjectsMappedToFullyQualifiedNames",
+			"separately",
+			"previous",
+			"indices",
+			"record",
+			"keyName",
+			"isSparse",
+			"isUnique",
+			"_indexRecords",
+			"preExistingDocument",
+			"addContentToMap",
+			"MapPolyfill",
+			".set",
+			"mySet",
+			"this.map",
+			"remove_unreliable_fields",
+			"_renderAdminButton",
+			"_renderShowAdminButton",
+			"remove_unreliable_data",
+			"compilation.total_estimated_duration",
+			"compilation.has_total_estimated_duration?",
+			"compilation.total_estimated_duration",
+			"compilation.estimated_duration",
+			"compilation.has_estimated_duration",
+			"compilation_version_without_content_hash2proto",
+			"compiled_activities_hash2proto",
+			"propogate_duration_estimate_update",
+			"propogate_duration_estimate_updates",
+			"find_ancestor_uuids",
+			"availability",
+			"compute_total_estimated_duration",
+			"namePlaintext",
+			"\"name_plaintext\": \"",
+			"expect(get_possibly_unreleased_result.latest_version_content.compiled_activities.preferred_compiled_activity_uuid_for_student_demo).to eql(get_possibly_unreleased_result.latest_version_content.compiled_activities.compiled_activities[-1].uuid)",
+			").to be",
+			"compiled_activity",
+			"Descendant",
+			"descendant",
+			"estimated_duration",
+			"is_purchasable",
+			"is_published",
+			"Stile::IndifferentAccessHash.new new_theme_color_light",
+			"Stile::IndifferentAccessHash.new new_theme_color_dark",
+			"new_theme_color_dark",
+			"new_theme_color_light",
+			"is_purchasable",
+			"suspension",
+			"is_all_consumption_suspended",
+			"is_trial_for",
+			"is_trial_for_compilation_uuids",
+			"req.has_is_published? ",
+			"is_all_consumption_suspended_changed_",
+			"Stile::Services::LessonItem::AssessmentMode",
+			"ignore_extra: false",
+			"is_all_consumption_suspended_changed_by_principal",
+			"preferred",
+			"student_demo",
+			"StudentDemo",
+			"marketing_video",
+			"InstitutionStaff",
+			"describe 'then buying more licenses' do",
+			"\"DELAYED_RPC_PROCESSING_PERIOD\": 8,",
+			"\"DELAYED_RPC_PROCESSING_PERIOD\": 9,",
+			"filter",
+			"lesson.fetch('id')",
+			"stile.errors",
+			"stile.errors\n    - stile.amqp.message",
+			"stile.errors\n    -stile.amqp.message",
+			"stile.errors\n,    -stile.amqp.message",
+			"stile.errors\n    -stile.amqp.message\\n",
+			"stile.errors\\n    -stile.amqp.message\\n",
+			"stile.errors\\n    -stile.amqp.message",
+			"retry_for(10)",
+			"wait_for_exactly_one_locked_license",
+			"Library::Compilation::Instantiation",
+			"be_within(15)",
+			"has_locked_student_license_for_compilation",
+			"ensure_tag_for_locked_licensed_students_principal",
+			"null_if_locked_else_allocation_key",
+			"compilation",
+			"subject_hash2proto",
+			"expect(get_possibly_unreleased_result.latest_version_content_preview.has_activities_preview?).to be true",
+			"expect(result.latest_version_content_preview.has_subcompilations_preview?).to be true",
+			"expect(result.latest_version_content_preview.has_activities_preview?).to be true",
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python 3/Python3.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"output.markdown":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "ala.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"web-client/app/fluxCondenser/tests/index.spec.js"
+			],
+			[
+				"syncspecjs",
+				"web-client/app/core/tests/libs/sync.spec.js"
+			],
+			[
+				"protohttp",
+				"backend/public-api/lib/middleware/protoHttp.js"
+			],
+			[
+				"sync",
+				"web-client/app/core/libs/sync.module.js"
+			],
+			[
+				"apistub",
+				"web-client/app/core/testHelpers/apiStub.module.js"
+			],
+			[
+				"leesiteanap",
+				"backend/analytics-service/lib/analytics_service/apis/lesson_item_analytics_api.rb"
+			],
+			[
+				"eventlessprot",
+				"backend/institution-service/interface/events/lesson_item.proto"
+			],
+			[
+				"notificoll",
+				"web-client/app/notifications/collections/notificationCollection.module.js"
+			],
+			[
+				"syncmodu",
+				"web-client/app/core/libs/sync.module.js"
+			],
+			[
+				"backbonlayoutjs",
+				"web-client/app/legacy/classes/backbone/resourceLayout.js"
+			],
+			[
+				"plansubspec",
+				"web-client/app/header/tests/planSubscriptionInfoPanel.spec.js"
+			],
+			[
+				"testscompoi18jn",
+				"web-client/app/i18n/tests/components/i18n.spec.js"
+			],
+			[
+				"logmo",
+				"web-client/app/core/libs/log.module.js"
+			],
+			[
+				"fluxsto",
+				"documentation/specifications/flux_data_store/flux_data_store.md"
+			],
+			[
+				"deepfreez",
+				"web-client/app/core/libs/deepFreeze.module.js"
+			],
+			[
+				"orchesmd",
+				"documentation/specifications/orchestration/orchestration.md"
+			],
+			[
+				"webconfig",
+				"web-client/webpack.config.js"
+			],
+			[
+				"inboxsp",
+				"web-client/app/notifications/tests/inbox.spec.js"
+			],
+			[
+				"planspechel",
+				"backend/plan-service/spec/spec_helper.rb"
+			],
+			[
+				"storeide",
+				"web-client/app/fluxCondenser/libs/storeIndex.module.js"
+			],
+			[
+				"karmaenv",
+				"web-client/karma.env.js"
+			],
+			[
+				"fluxstore",
+				"documentation/specifications/flux_data_store/flux_data_store.md"
+			],
+			[
+				"planapi",
+				"web-client/app/apiThunks/planApi.module.js"
+			],
+			[
+				"commmethapi",
+				"backend/outbound-communication-service/lib/outbound_communication_service/apis/communication_method_api.rb"
+			],
+			[
+				"babelrc",
+				"web-client/.babelrc"
+			],
+			[
+				"storeregist",
+				"web-client/app/fluxCondenser/libs/storeRegistry.module.js"
+			],
+			[
+				"storeindex",
+				"web-client/app/fluxCondenser/libs/storeIndex.module.js"
+			],
+			[
+				"tablebuisp",
+				"web-client/app/tablebuilder/tests/tablebuilder.spec.js"
+			],
+			[
+				"babelr",
+				"react/node_modules/babel/test/.babelrc"
+			],
+			[
+				"store",
+				"web-client/app/fluxCondenser/libs/store.module.js"
+			],
+			[
+				"fluxmd",
+				"documentation/specifications/flux_data_store/flux_data_store.md"
+			],
+			[
+				"fluxm",
+				"react/docs/docs/flux-overview.md"
+			],
+			[
+				"fluxcondenteststore",
+				"web-client/app/fluxCondenser/tests/libs/store.js"
+			],
+			[
+				"i18nmodul",
+				"web-client/app/i18n/components/i18n.module.js"
+			],
+			[
+				"syncerr",
+				"web-client/app/core/libs/syncErrors.module.js.ejs"
+			],
+			[
+				"versionmix",
+				"web-client/app/core/mixins/versionMixin.module.js"
+			],
+			[
+				"buttonlink",
+				"web-client/app/core/components/buttonLink.module.js"
+			],
+			[
+				"syncmo",
+				"web-client/app/core/libs/sync.module.js"
+			],
+			[
+				"bigdata",
+				"backend/utility-scripts/lib/big_data.rb"
+			],
+			[
+				"tesdatajson",
+				"web-client/app/library2ActivityPreviewHeader/tests/data/compilation.json"
+			],
+			[
+				"inboxspec",
+				"web-client/app/notifications/tests/inbox.spec.js"
+			],
+			[
+				"moneymodule",
+				"web-client/app/core/components/money.module.js"
+			],
+			[
+				"lesonitempb.rb",
+				"backend/analytics-service/lib/stile/events/lesson_item.pb.rb"
+			],
+			[
+				"lessonitempbrb",
+				"backend/institution-service/lib/institution_service/apis/lesson_item_pb_api.rb"
+			],
+			[
+				"storemodul",
+				"web-client/app/react/store.module.js"
+			],
+			[
+				"i18nspec",
+				"web-client/app/i18n/tests/components/i18n.spec.js"
+			],
+			[
+				"deepiseq",
+				"web-client/app/core/libs/selectiveDeepIsEqual.module.js"
+			],
+			[
+				"flux",
+				"documentation/specifications/flux_data_store/flux_data_store.md"
+			],
+			[
+				"dockercomp",
+				"docker-compose.yml"
+			],
+			[
+				"authconfigrb",
+				"backend/auth-service/config.rb"
+			],
+			[
+				"signupapi",
+				"backend/onboarding-service/lib/onboarding_service/apis/signup_api.rb"
+			],
+			[
+				"fluxstoremd",
+				"documentation/specifications/flux_data_store/flux_data_store.md"
+			],
+			[
+				"i18nexis",
+				"web-client/app/i18n/exists.module.js"
+			],
+			[
+				"webclientindexejs",
+				"web-client/assets/index.html.ejs"
+			],
+			[
+				"compilpage",
+				"web-client/app/library2CompilationPage/components/CompilationPage.module.js"
+			],
+			[
+				"pubpage",
+				"web-client/app/library2PublisherPage/components/PublisherPage.module.js"
+			],
+			[
+				"compilpag",
+				"web-client/app/library2CompilationPage/components/CompilationPage.module.js"
+			],
+			[
+				"opengra",
+				"web-client/app/semanticMetadata/badComponents/openGraph.module.js"
+			],
+			[
+				"payemntparse",
+				"web-client/app/payment/parsers/paymentParser.module.js"
+			],
+			[
+				"compilprot",
+				"backend/library2-service/interface/services/compilation.proto"
+			],
+			[
+				"setpagestat",
+				"web-client/app/pageRouter/setPageState.module.js"
+			],
+			[
+				"index",
+				"web-client/assets/index.html.ejs"
+			],
+			[
+				"indexhem",
+				"web-client/assets/index.html.ejs"
+			],
+			[
+				"hedaincl",
+				"marketing-2015/layouts/partials/head.includes.html"
+			],
+			[
+				"pagerouter",
+				"web-client/app/pageRouter/basePageRouter.module.js"
+			],
+			[
+				"pagerouteer",
+				"web-client/app/pageRouter/basePageRouter.module.js"
+			],
+			[
+				"i18nindex",
+				"web-client/app/i18n/index.module.js"
+			],
+			[
+				"exists",
+				"web-client/app/i18n/exists.module.js"
+			],
+			[
+				"puchfunction",
+				"web-client/app/library2Purchase/utils/compilationPurchasingFunctions.module.js"
+			],
+			[
+				"moneymodu",
+				"web-client/app/core/components/money.module.js"
+			],
+			[
+				"logmodu",
+				"web-client/app/core/libs/log.module.js"
+			],
+			[
+				"opengraph",
+				"web-client/app/semanticMetadata/badComponents/openGraph.module.js"
+			],
+			[
+				"pagemeta",
+				"web-client/app/semanticMetadata/components/pageMetadata.module.js"
+			],
+			[
+				"server",
+				"web-client/server/server.conf.erb"
+			],
+			[
+				"amqpsever",
+				"lib-stile-ruby/lib/stile/amqp/service.rb"
+			],
+			[
+				"amqpclientrb",
+				"lib-stile-ruby/lib/stile/amqp/client.rb"
+			],
+			[
+				"personapi",
+				"backend/outbound-communication-service/lib/outbound_communication_service/apis/person_api.rb"
+			],
+			[
+				"headincl",
+				"marketing-2015/layouts/partials/head.includes.html"
+			],
+			[
+				"fullenvplus",
+				"operations/cfn/full_environment.plus"
+			],
+			[
+				"webservercon",
+				"web-client/server/server.conf.erb"
+			],
+			[
+				"webclientserv",
+				"web-client/server/server.conf.erb"
+			],
+			[
+				"dockercompo",
+				"docker-compose.yml"
+			],
+			[
+				"pubproto",
+				"backend/library2-service/interface/services/publisher.proto"
+			],
+			[
+				"indexejs",
+				"web-client/assets/index.html.ejs"
+			],
+			[
+				"i18nexists",
+				"web-client/app/i18n/exists.module.js"
+			],
+			[
+				"i18nmod",
+				"web-client/app/i18n/components/i18n.module.js"
+			],
+			[
+				"i18nindexjs",
+				"web-client/app/i18n/index.module.js"
+			],
+			[
+				"authuserapi",
+				"backend/auth-service/lib/auth_service/apis/user_api.rb"
+			],
+			[
+				"html2plai",
+				"web-client/app/core/libs/html2Plaintext.module.js"
+			],
+			[
+				"sidemana",
+				"web-client/app/sidebar/libs/renderedManager.module.js"
+			],
+			[
+				"pagestae",
+				"web-client/app/pageRouter/setPageState.module.js"
+			],
+			[
+				"shittyre",
+				"web-client/app/pageRouter/libs/shittyReact/shittyReact.module.js"
+			],
+			[
+				"reacttestuti",
+				"react/src/test/__tests__/ReactTestUtils-test.js"
+			],
+			[
+				"racttestuti",
+				"react/src/test/ReactTestUtils.js"
+			],
+			[
+				"compilpurch",
+				"web-client/app/library2Purchase/components/CompilationPurchase.module.js"
+			],
+			[
+				"setpagestate",
+				"web-client/app/pageRouter/setPageState.module.js"
+			],
+			[
+				"outcomserv",
+				"backend/outbound-communication-service/lib/outbound_communication_service.rb"
+			],
+			[
+				"indehe",
+				"web-client/assets/index.html.ejs"
+			],
+			[
+				"marketinghead",
+				"marketing-2015/layouts/partials/head.html"
+			],
+			[
+				"tolkap",
+				"backend/auth-service/lib/auth_service/apis/tolkien_api.rb"
+			],
+			[
+				"marketing2015",
+				"marketing-2015/.gitignore"
+			],
+			[
+				"pagemetadat",
+				"web-client/app/pageRouter/components/pageMetadata.module.js"
+			],
+			[
+				"html2",
+				"web-client/app/core/libs/html2Plaintext.module.js"
+			],
+			[
+				"paymparser",
+				"web-client/app/payment/parsers/paymentParser.module.js"
+			],
+			[
+				"proptymoment",
+				"web-client/app/core/propTypes/moment.module.js"
+			],
+			[
+				"paymentparser",
+				"web-client/app/payment/parsers/paymentParser.module.js"
+			],
+			[
+				"uploadresou",
+				"backend/upload-service/lib/upload_service/resources/upload_resource.rb"
+			],
+			[
+				"uploadimage",
+				"web-client/app/library2CompilationPage/components/UploadedImage.module.js"
+			],
+			[
+				"commentmodule",
+				"web-client/app/chat3/components/comment.module.js"
+			],
+			[
+				"commonopwr",
+				"lib-stile-ruby/lib/stile_test_helper/common_operation_wrappers.rb"
+			],
+			[
+				"tolkapi",
+				"backend/auth-service/lib/auth_service/apis/tolkien_api.rb"
+			],
+			[
+				"tolkprot",
+				"backend/auth-service/interface/services/tolkien.proto"
+			],
+			[
+				"logmodeljs",
+				"web-client/app/core/libs/log.module.js"
+			],
+			[
+				"makerout",
+				"web-client/app/library2/libs/makeRoute.module.js"
+			],
+			[
+				"fancysc",
+				"web-client/app/core/components/fancyScroller.module.js"
+			],
+			[
+				"inboxmodu",
+				"web-client/app/notifications/components/inbox.module.js"
+			],
+			[
+				"arrayref",
+				"web-client/app/core/mixins/react/arrayRefMixin.module.js"
+			],
+			[
+				"breadcrumbstri",
+				"web-client/app/library2/components/BreadcrumbStrip.module.js"
+			],
+			[
+				"notiifimo",
+				"web-client/app/notifications/components/notification.module.js"
+			],
+			[
+				"reactvi",
+				"web-client/app/react/views/reactView.module.js"
+			],
+			[
+				"promisre",
+				"web-client/app/framework/regions/promiseRegion.module.js"
+			],
+			[
+				"appmodu",
+				"web-client/app/bootstrap/app.module.js"
+			],
+			[
+				"componi18n",
+				"web-client/app/i18n/components/i18n.module.js"
+			],
+			[
+				"librarroutesjs",
+				"web-client/app/library2/routes/index.module.js"
+			],
+			[
+				"pageroutmo",
+				"web-client/app/pageRouter/basePageRouter.module.js"
+			],
+			[
+				"updatepagestat",
+				"web-client/app/pageRouter/updatePageState.module.js"
+			],
+			[
+				"teachnocomponetn",
+				"web-client/app/teacherNotes/components/teacherNotes.module.js"
+			],
+			[
+				"showdash",
+				"web-client/app/studentDash/routes/showStudentDash.module.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 736.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 378.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
