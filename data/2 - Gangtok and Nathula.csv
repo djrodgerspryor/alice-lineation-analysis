@@ -1,0 +1,48 @@
+Area,Site #,Latitude,Longitude,elevation (m),Rock type,S dominant,S dominant dip direction,S dominant dip angle,Ls,Ls direction,Ls plunge,shear direction,shear sense,other foliations,other L,C' provided,C'-strike,C'-dip direction,C'-dip,Lineation,Lineation type,Sample,Thin section type,reference chunk,Big crushed,Small crushed,powdered?,other comments,Metamorphic minerals (field),Peak minerals
+Nathula Pass road,,27.3325,88.61338889,,,,,,,,,,,,,,,,,,,,no,,,,,,,
+,SK71,27.37605556,88.75991667,3758,,,,,02/08,2,8,,sinistral ,,,08/68E,,,,,stretching,,no,,,,,,,
+,,,,,,,,,352/12,352,12,,,,,346/75E,,,,,stretching,,,,,,,,,
+,,27.37605556,88.75994444,,,,,,,,,,,,,,,,,,,,no,,,,,,,
+,,27.37575,88.7555,,,,,,,,,,,,,,,,,,,,no,,,,,,,
+,,27.37502778,88.75302778,,,,,,,,,,,,,,,,,,,,no,,,,,,,
+,SK72,27.37302778,88.74727778,3593,,,,,010/04,10,4,,,,,08/61E,,,,,stretching,,no,,,,,,,
+,,,,,,,,,,,,,,,,16/60E,,,,,,,,,,,,,,
+,SK73,27.37383333,88.73002778,3399,,,,,,,,,,,,,,,,,,,no,,,,,,,
+,SK74,27.37386111,88.73002778,,,,,,,,,,,,,,,,,,,,no,,,,,,,
+,,27.37422222,88.72922222,,,,,,,,,,,,,,,,,,,,no,,,,,,,
+,,27.37422222,88.72927778,,,,,,,,,,,,,,,,,,,,no,,,,,,,
+,SK75,27.37191667,88.71811111,3246,,,,,,,,,,,,,,,,,,,no,,,,,,,
+,,27.36872222,88.715,,,,,,,,,,,,,,,,,,,,no,,,,,,,
+,SK76,27.37269444,88.70708333,3142,,,,,,,,,,,,,,,,,,,no,,,,,,,
+,,27.37638889,88.70788889,,,,,,,,,,,,,,,,,,,,no,,,,,,,
+,SK174,27.28494,88.19376,,,306/24N,36,24,,,,,,,,,,,,,,yes,NA,yes,yes,no,no,,,Sil
+,SK141,27.38297,88.70232,3146,migmatite,327/64E,,64,18 to 283,283,18,top to S,thrust,,,,,,,,,yes,4x non oriented,yes,,,yes,could do Lu-Hf… shit loads of grt…,"grt, hbl, bt",Grt
+,SK142,27.37556,88.70837,3170,mylonitic gneiss,345/38E AND 342/32NE,,35,,,,top to north east,normal,,,,,,,,,yes,,,,,,Big Ass Fault,hbl,
+,SK143,27.37556,88.70837,3192,gneiss,,,,,,,,,,,,,,,,,,,,,,,faulted sigmoids,,
+,SK144,27.369306,88.71454,3215,granitic gneiss,,,,,,,top to north east,normal,,,,,,,,,,,,,,,"2nd Big Ass Fault, really badly weathered",,
+,SK145,27.36779,88.71503,3185,migmatitic gneiss,330/42NE,,42,,,,,,,,,,,,,,yes,,yes,yes,,,,,
+,SK146,27.37135,88.70974,3160,migmatite,337/55E,,55,,,,,,,,,,,,,,yes,,,,,,,"bt, chl",Bt
+,SK147,27.34536,88.63434,2020,quartzite,,,,,,,top to west,thrust,,,,,,,,,,,,,,,,bt,Bt
+,SK169,27.376056,88.759917,3758,,335/80E,,80,,,,,,,,,,,,,,,,,,,,,,
+,SK170,27.374,88.72967,3390,,004/68E,,68,,,,,,,,,,,,,,yes,oriented,yes,yes,yes,no,,,
+,SK171,27.37228,88.71816,3260,,344/60E,,60,,,,,,,,,,,,,,yes,random comp,yes,yes,,,,,
+,SK172,27.37861,88.69987,3070,,325/50E,,50,,,,,,,,,,,,,,yes,,,,,,,,
+Gangtok and surroundings,SK191,27.37698,88.63129,1848,migmatite,,,,,,,,,,,,,,,,,yes,random comp,yes,yes,,,spiders,"bt clusters, melt",Bt
+,SK192,27.34138,88.62498,1964,migmatite,,,,,,,,,,,,,,,,,,,,,,,faults and badly weathered,bt,Bt
+,SK193,27.35218,88.58837,1475,Quartzite + schisty,331/32E,,32,,,,top to S dominant but also top to N,ambiguous,,,,,,,,,yes,NA,yes,yes,,,,chl,
+,SK118,27.35787,88.62354,1793,Massive migmatite,,,,,,,,,,,,,,,,,yes,random comp,yes,yes,,,,,
+,SK119,27.36155,88.62424,1779,Quartzite + schisty,315/28E,,28,,,,,,,,,,,,,,,,,,,,amph layer,bt,Bt
+,SK120,27.37081,88.61578,1879,Schist,,,,,,,,,,,,,,,,,,,,,,,,bt,Bt
+,SK121,27.36831,88.62131,1925,Migmatite,342/59E,,59,,,,,,,,,,,,,,,,,,,,,bt,Bt
+,SK122,27.36979,88.62715,2105,migmatite,354/50E,,50,,,,,,,,,,,,,,,,,,,,friable,bt,Bt
+,SK123,27.37214,88.63259,2165,migmatite,339/60E,,60,,,,folds indicate likely extreme shear top to the SW (thrust),thrust,,,,,,,,,yes,random comp,yes,yes,,,,"bt, melt",Bt
+,SK124,27.37352,88.6353,2147,migmatite,140/60E FOLD AXIS,,60,,,,,,,,,,,,,,yes,xz non-oriented,yes,yes,,,shearing appears syn-migmatisation,bt,Bt
+,SK125,27.36523,88.61666,1668,schisty,168/50E,,50,,,,top to south,thrust,,,,,,,,,,,,,,,,"st, grt",St
+,SK126,27.36373,88.61361,1636,schist,351/36E,,36,,,,top to south,thrust,,,,,,,,,yes,xz non-oriented,yes,yes,,,,"grt, chl , amphobolite",Grt
+,SK127,27.36122,88.60943,1589,Quartzite + schisty,300/28N,,28,,,,top to SE,thrust,,,,,,,,,yes,2x xz non-oriented,yes,yes,,,,"sil, grt, bt, tourmaline",St Sil
+,SK148,27.36292,88.61137,1621,schist,311/19E,,19,,,,top to SW,thrust,,,,,,,,,yes,,yes,yes,,,amphibolite blob,"ky?, grt?, bt, chl",Ky
+,SK149,27.35985,88.60799,1567,Quartzite + schisty,301/15NE,,15,,,,,,,,,,,,,,yes,,,,,,weird oos bt in chl crenulations,"bt, chl",Bt
+,SK150,27.35904,88.60654,1564,schist,297/30NE,,30,,,,top to SW,thrust,,,,,,,,,,,,,,,,"st?, chl, ",St
+,SK151,27.35647,88.5924,1521,migmatitic gneiss,340/55E,,55,,,,,,,,,,,,,,yes,,yes,yes,,,,"st?, grt, bt, chl",St
+,SK70,27.33288889,88.61338889,1620,,128/34NE,,34,,,,,,,,,,,,026/10,,,no,,,,,,,
+,SK77,27.36561111,88.65227778,2341,,,,,,,,,,,,,,,,,,,no,,,,,,,

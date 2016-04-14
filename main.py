@@ -7,18 +7,18 @@ import data
 import plotting
 import numpy as np
 
-dataset = data.load()
+datasets = data.ensure()
 
-plotting.vector_field(
-    dataset["positions"]["x"],
-    dataset["positions"]["y"],
-    dataset["positions"]["z"],
-    lambda x, y, z: [
-        4 * x**2 / np.linalg.norm([x, y, z]),
-        4 * 2*y / np.linalg.norm([x, y, z]),
-        4 * -z / np.linalg.norm([x, y, z]),
-    ]
-)
+for name, dataset in datasets.items():
+    plotting.vector_field(
+        dataset["positions"]["x"],
+        dataset["positions"]["y"],
+        dataset["positions"]["z"],
+        dataset["positions"]["u"],
+        dataset["positions"]["v"],
+        dataset["positions"]["w"],
+        name=name,
+    )
 
 from mayavi import mlab
 mlab.show()
