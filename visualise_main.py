@@ -7,7 +7,7 @@ import data
 import plotting
 import numpy as np
 
-datasets = data.ensure()
+datasets = data.ensure_by_type()
 
 colors = {
     'normal': (0, 0, 1), # Blue

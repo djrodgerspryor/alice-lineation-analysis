@@ -71,7 +71,34 @@ def dataset2arraysbytype(dataset):
 
     return result
 
-def ensure():
+def dataset2array(dataset):
+    mean_lat = np.mean([datapoint['lat'] for datapoint in dataset])
+    mean_long = np.mean([datapoint['long'] for datapoint in dataset])
+
+    results = []
+    for datapoint in dataset:
+        _x, _y = latlong_to_meters(datapoint['lat'], datapoint['long'], mean_lat, mean_long)
+
+        results.append({
+            'x': _x,
+            'y': _y,
+            'z': datapoint['elevation'],
+            'u': datapoint['u'],
+            'v': datapoint['v'],
+            'w': datapoint['w'],
+        })
+
+    return results
+
+def ensure_array():
+    result = {}
+
+    for k, dataset in load.datasets_by_file.items():
+        result[k] = dataset2array(dataset)
+
+    return result
+
+def ensure_by_type():
     result = {}
 
     for k, dataset in load.datasets_by_file.items():

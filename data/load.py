@@ -11,7 +11,7 @@ import codecs
 
 heading_map = {
     "Area": "area",
-    "Site #": "stite-id",
+    "Site #": "site-id",
     "Latitude": "lat",
     "Longitude": "long",
     "elevation (m)": "elevation",
@@ -39,6 +39,10 @@ for fname in glob.glob(os.path.dirname(os.path.realpath(__file__)) + '/*.csv'):
 
         for line in fp:
             data = dict(zip(headings, [value for value in line.split(',')]))
+
+            # Exclude outlier datapoint
+            if data["site-id"] == 'SK184' and 'Pelling, Hee and Yuksom' in fname:
+                continue
 
             if all(data[heading] for heading in required_headings):
                 data['lat'] = float(data['lat'])
