@@ -10,14 +10,14 @@ os.environ["ETS_TOOLKIT"] = "qt4"
 from mayavi import mlab
 mlab.options.backend = 'envisage'
 
-def vector_field(x, y, z, u, v, w, name):
+def vector_field(x, y, z, u, v, w, name, constant_color):
     figure = mlab.figure(
         name,
         fgcolor=(0, 0, 0),
         bgcolor=(1, 1, 1)
     )
 
-    mlab.quiver3d(x, y, z, u, v, w, line_width=3, scale_factor=1, figure=figure)
+    mlab.quiver3d(x, y, z, u, v, w, line_width=3, scale_factor=1, figure=figure, color=constant_color)
 
 def show():
     """

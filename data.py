@@ -35,40 +35,46 @@ def latlong_to_meters(lat1, long1, lat2, long2):
 
     y = math.sin(theta2 - theta1) * math.cos(phi2)
     x = math.cos(phi1) * math.sin(phi2) - math.sin(phi1) * math.cos(phi2) * math.cos(theta2 - theta1)
-    bearing = math.atan2(y, x)
+    bearing = -math.atan2(y, x)
 
-    return [math.cos(bearing) * r, math.sin(bearing) * r]
+    return [math.sin(bearing) * r, math.cos(bearing) * r]
 
-def dataset2arrays(dataset):
+def dataset2arraysbytype(dataset):
     mean_lat = np.mean([datapoint['lat'] for datapoint in dataset])
     mean_long = np.mean([datapoint['long'] for datapoint in dataset])
 
-    x, y, z, u, v, w = [], [], [], [], [], []
-    for datapoint in dataset:
-        _x, _y = latlong_to_meters(datapoint['lat'], datapoint['long'], mean_lat, mean_long)
-        x.append(_x)
-        y.append(_y)
+    result = {}
 
-        z.append(datapoint['elevation'])
-        u.append(datapoint['u'] * vec_scale)
-        v.append(datapoint['v'] * vec_scale)
-        w.append(datapoint['w'] * vec_scale)
+    for shear_sense in set(datapoint['shear-sense'] for datapoint in dataset):
+        x, y, z, u, v, w = [], [], [], [], [], []
+        for datapoint in dataset:
+            if datapoint['shear-sense'] == shear_sense:
+                _x, _y = latlong_to_meters(datapoint['lat'], datapoint['long'], mean_lat, mean_long)
+                x.append(_x)
+                y.append(_y)
 
-    return {
-        "positions": {
-            "x": np.array(x),
-            "y": np.array(y),
-            "z": np.array(z),
-            "u": np.array(u),
-            "v": np.array(v),
-            "w": np.array(w),
-        },
-    }
+                z.append(datapoint['elevation'])
+                u.append(datapoint['u'] * vec_scale)
+                v.append(datapoint['v'] * vec_scale)
+                w.append(datapoint['w'] * vec_scale)
+
+        result[shear_sense] = {
+            "positions": {
+                "x": np.array(x),
+                "y": np.array(y),
+                "z": np.array(z),
+                "u": np.array(u),
+                "v": np.array(v),
+                "w": np.array(w),
+            },
+        }
+
+    return result
 
 def ensure():
     result = {}
 
     for k, dataset in load.datasets_by_file.items():
-        result[k] = dataset2arrays(dataset)
+        result[k] = dataset2arraysbytype(dataset)
 
     return result

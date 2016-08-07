@@ -9,16 +9,26 @@ import numpy as np
 
 datasets = data.ensure()
 
+colors = {
+    'normal': (0, 0, 1), # Blue
+    'thrust': (1, 0, 0), # Red
+    'ambiguous': (0.75, 0.75, 0), # Yellow
+    'unknown': (0, 0, 0), # Black
+    'other': (0, 1, 0), # Green
+}
+
 for name, dataset in datasets.items():
-    plotting.vector_field(
-        dataset["positions"]["x"],
-        dataset["positions"]["y"],
-        dataset["positions"]["z"],
-        dataset["positions"]["u"],
-        dataset["positions"]["v"],
-        dataset["positions"]["w"],
-        name=name,
-    )
+    for shear_sense, shear_sense_dataset in dataset.items():
+        plotting.vector_field(
+            shear_sense_dataset["positions"]["x"],
+            shear_sense_dataset["positions"]["y"],
+            shear_sense_dataset["positions"]["z"],
+            shear_sense_dataset["positions"]["u"],
+            shear_sense_dataset["positions"]["v"],
+            shear_sense_dataset["positions"]["w"],
+            name=name,
+            constant_color=colors[shear_sense],
+        )
 
 from mayavi import mlab
 mlab.show()

@@ -19,6 +19,7 @@ heading_map = {
     "Soimplified rock type": "rock-type",
     "Ls direction": "ls-direction",
     "Ls plunge": "ls-plunge",
+    "shear sense": "shear-sense",
 }
 
 required_headings = ['lat', 'long', 'elevation', 'ls-direction', 'ls-plunge']
@@ -44,8 +45,28 @@ for fname in glob.glob(os.path.dirname(os.path.realpath(__file__)) + '/*.csv'):
                 data['long'] = float(data['long'])
                 data['elevation'] = float(data['elevation'])
 
-                data['ls-direction-rad'] = math.radians(float(data['ls-direction']))
+                # Note: the addition of π/2 ensures that North (0°) is the same as the y+ direction (π/2 radians)
+                data['ls-direction-rad'] = -math.radians(float(data['ls-direction'])) + (math.pi / 2)
                 data['ls-plunge-rad'] = math.radians(float(data['ls-plunge']))
+
+                if data['shear-sense'] and data['shear-sense'].lower().strip() == 'normal':
+                    data['shear-sense'] == 'normal'
+
+                elif data['shear-sense'] and data['shear-sense'].lower().strip() == 'thrust':
+                    data['shear-sense'] == 'thrust'
+
+                    # Reverse the vector
+                    data['ls-direction-rad'] += math.pi
+                    data['ls-plunge-rad'] *= -1
+
+                elif data['shear-sense'] and data['shear-sense'].lower().strip() in ['both', 'ambiguous']:
+                    data['shear-sense'] = 'ambiguous'
+
+                elif data['shear-sense'] and data['shear-sense'].lower().strip() in ['unknown', 'unkown', '']:
+                    data['shear-sense'] = 'unknown'
+
+                else:
+                    data['shear-sense'] = 'other'
 
                 data['u'] = math.cos(float(data['ls-direction-rad']))
                 data['v'] = math.sin(float(data['ls-direction-rad']))
